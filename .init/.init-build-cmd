@@ -1,0 +1,4 @@
+{
+    "command": "flutter build apk --release --target-platform android-x64",
+    "working_directory": "/home/kavia/workspace/code-generation/mobile-phones-catalog-185999-186008/frontend_app"
+}
