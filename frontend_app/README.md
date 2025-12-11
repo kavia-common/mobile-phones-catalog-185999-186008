@@ -1,16 +1,22 @@
 # frontend_app
 
-A new Flutter project.
+Flutter frontend for the Mobile Phones Catalogue.
 
-## Getting Started
+## About
+A simple Flutter mobile app that displays a list of mobile phones with model, brand, price, and photo. Tapping a phone opens a detail view. No backend and no authentication.
 
-This project is a starting point for a Flutter application.
+## Run locally
+- Ensure Flutter SDK is installed (Dart >= 3.7.0)
+- flutter pub get
+- flutter run
 
-A few resources to get you started if this is your first Flutter project:
+The environment preview system may automatically expose the app on port 3000 in supported environments.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project files
+- lib/main.dart: App entry point and current scaffolding
+- pubspec.yaml: Dependencies and assets
+- test/widget_test.dart: Basic widget tests
+- assets/: Place images here (currently empty)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Docs
+See kavia-docs/ for architecture, features, UI/UX, data model, navigation, contribution guidelines, and future improvements.

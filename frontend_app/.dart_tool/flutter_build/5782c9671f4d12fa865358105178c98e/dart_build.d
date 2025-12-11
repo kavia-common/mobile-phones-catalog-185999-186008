@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/mobile-phones-catalog-185999-186008/frontend_app/.dart_tool/flutter_build/5782c9671f4d12fa865358105178c98e/dart_build_result.json: 
